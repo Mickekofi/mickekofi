@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mickekofi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mickekofi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mickekofi&icon=0&color=0)]()
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://skrill.me/rq/Michael/5/USD?key=js31JixedDkfeIn2r1My5qpHvv2) 
