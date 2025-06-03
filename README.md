@@ -1,7 +1,6 @@
 # 💫 About Me:
 ✓ leader of ✨Possibility AI —a start up society with believe in the limitless possibilities of technology. <br>✓ Aspired in the fields of Machine Learning Engineering &<br>Systems Automation |<br>
 
-https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-w-series-laptops/thinkpad-w540/20bh/20bhs06705
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michael(Ubuntu)Appiah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mickekofi) 
