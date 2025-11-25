@@ -1,5 +1,5 @@
 # 💫 About Me:
-leader of ✨Possibility AI a start up society with believe in the limitless possibilities of technology. <br>✓ Aspired in the fields of Machine Learning Engineering &<br>Systems Automation |<br>
+Founder of Intelligence Ghana a start up society with believe in the limitless possibilities of technology. <br>Aspired in the fields of Machine Learning Engineering & <br> Systems Automation | <br>
 Am highly inspired, working 24/7 building a Revolutionary Software Startup Society where we invent the next problem solution idea.
 
 I envision a Future where we come to discover the Hidden and Unknown Potentials of Technology and it's implications in each and every single subject of our mortal world , ranging from Poverty, Culture, healthcare, Education, Industrial, Society disasters etc.
