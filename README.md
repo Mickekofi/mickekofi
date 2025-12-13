@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder of Intelligence Ghana a Start Up Society with believe in the limitless possibilities of technology. <br> As an aspired computer scientist I envision a future where we come to discover the unknown  potentials of technology and particularly, which will lead to answers in each and every single subject of our mortal world , ranging from Poverty, Education, Health Care and Social Entropy.
+Founder of Intelligence Ghana a Start Up Society with believe in the limitless possibilities of technology. <br> <br> As an aspired computer scientist I envision a future where we come to discover the unknown  potentials of technology and particularly, which will lead to answers in each and every single subject of our mortal world , ranging from Poverty, Education, Health Care and Social Entropy.<br>
 <br> <br>
 
 Am highly inspired, working 24/7 building a Revolutionary Software Startup Society where we invent the next problem solution idea.
