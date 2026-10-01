@@ -10,7 +10,6 @@ Am highly inspired, working 24/7 building a Revolutionary Software Startup Socie
     <a href="https://wa.me/233505994829?text=*Github_Client-User_💬Message_:*%20">
       <img src="https://img.shields.io/badge/Contact-Developers-red.svg" alt="Build Status">
     </a>
-
     <br>
    #### Contact In Person: +233597326320
 
